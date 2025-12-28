@@ -1,3 +1,9 @@
+## About this project
+
+This project was implemented by me as part of an EPAM educational Java course.
+The original task description below was provided by EPAM.
+
+
 # Decrementing Carousel
 
 The purpose of this exercise is to train you designing simple classes and their relations.
@@ -128,3 +134,4 @@ DecrementingCarousel carousel = new DecrementingCarousel(10);
 System.out.println(carousel.run() == null); //false
 System.out.println(carousel.run() == null); //true
 ```
+
